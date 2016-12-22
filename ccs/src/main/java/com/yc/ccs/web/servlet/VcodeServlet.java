@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 生成验证码的Servlet
+ * 生成验证码的Servlet   
  */
 @WebServlet("/vcode.jpg")
 public class VcodeServlet extends HttpServlet {
